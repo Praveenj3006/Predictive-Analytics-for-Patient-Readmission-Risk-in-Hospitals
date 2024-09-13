@@ -1,13 +1,13 @@
 # Predictive-Analytics-for-Patient-Readmission-Risk-in-Hospitals
 Building a predictive model and conducting data analysis to identify factors contributing to patient readmissions in hospitals.
 
-Project Description:
+# Project Description:
 This project focuses on building a predictive model and conducting data analysis to identify factors contributing to patient readmissions in hospitals. The primary goal is to analyze patient data, determine the likelihood of readmission within 30 days of discharge, and provide insights to help hospitals reduce readmission rates, thus improving patient outcomes and reducing healthcare costs.
 
-Objective:
+# Objective:
 To analyze healthcare data related to patient demographics, medical history, treatments, and diagnoses, and develop a predictive model to classify patients based on their readmission risk. By identifying key factors that influence readmission, hospitals can target interventions to reduce preventable readmissions.
 
-Tools and Technologies Used:
+# Tools and Technologies Used:
 Python (Pandas, Matplotlib): For data manipulation, cleaning, analysis, and visualization.
 Snowflake: For cloud-based storage and querying of patient data.
 Jupyter Notebooks: For interactive data exploration and model building.
@@ -35,9 +35,9 @@ Visualization and Insights:
 
 Key insights from the data were visualized using Matplotlib, showcasing trends in patient demographics, treatment outcomes, and readmission rates. These insights will help hospitals identify high-risk patients and plan targeted interventions.
 
-Key Insights:
+# Key Insights:
 A significant portion of patients were readmitted within 30 days, with factors like certain chronic conditions and extended hospital stays contributing to higher readmission rates.
 Visualizing the readmission distribution revealed trends in patient outcomes based on age and medical history.
 
-Conclusion:
+# Conclusion:
 This project successfully demonstrated how healthcare data can be used to analyze and predict hospital readmission risk. By identifying key trends and patterns, hospitals can focus on preventive measures and improve patient care outcomes. The next steps involve building a predictive model to enhance the ability to forecast readmissions and reduce healthcare costs.
