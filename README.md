@@ -34,8 +34,10 @@ Models such as logistic regression, decision trees, or random forest will be exp
 Visualization and Insights:
 
 Key insights from the data were visualized using Matplotlib, showcasing trends in patient demographics, treatment outcomes, and readmission rates. These insights will help hospitals identify high-risk patients and plan targeted interventions.
+
 Key Insights:
 A significant portion of patients were readmitted within 30 days, with factors like certain chronic conditions and extended hospital stays contributing to higher readmission rates.
 Visualizing the readmission distribution revealed trends in patient outcomes based on age and medical history.
+
 Conclusion:
 This project successfully demonstrated how healthcare data can be used to analyze and predict hospital readmission risk. By identifying key trends and patterns, hospitals can focus on preventive measures and improve patient care outcomes. The next steps involve building a predictive model to enhance the ability to forecast readmissions and reduce healthcare costs.
