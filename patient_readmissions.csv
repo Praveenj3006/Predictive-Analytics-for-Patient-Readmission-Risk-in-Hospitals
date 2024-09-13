@@ -1,0 +1,1001 @@
+PATIENT_ID	AGE	GENDER	MEDICAL_HISTORY	LENGTH_OF_STAY	DISCHARGE_DIAGNOSIS	TREATMENT_RECEIVED	READMITTED
+1	32	Female	None	3	COPD	Chemotherapy	No
+2	21	Male	None	9	Cancer	Surgery	Yes
+3	53	Male	Cardiovascular Disease	23	Cancer	Physical Therapy	No
+4	49	Female	Hypertension	19	Cancer	Dialysis	No
+5	46	Female	Hypertension	21	COPD	Dialysis	No
+6	35	Female	Hypertension	3	COPD	Chemotherapy	Yes
+7	31	Female	Asthma	16	Heart Failure	Physical Therapy	Yes
+8	87	Male	Hypertension	15	Kidney Disease	Physical Therapy	Yes
+9	29	Female	Asthma	17	Heart Failure	Dialysis	Yes
+10	72	Female	Cardiovascular Disease	12	COPD	Physical Therapy	Yes
+11	22	Male	None	2	COPD	Chemotherapy	No
+12	21	Male	Asthma	16	COPD	Surgery	Yes
+13	29	Female	Cardiovascular Disease	28	COPD	Medication	No
+14	45	Female	Asthma	19	COPD	Surgery	No
+15	47	Female	Cardiovascular Disease	6	COPD	Chemotherapy	Yes
+16	82	Female	Hypertension	12	Pneumonia	Surgery	Yes
+17	21	Female	Hypertension	6	Pneumonia	Medication	Yes
+18	89	Female	Cardiovascular Disease	9	Cancer	Surgery	Yes
+19	43	Female	Diabetes	25	Pneumonia	Dialysis	Yes
+20	87	Male	Cardiovascular Disease	4	Heart Failure	Chemotherapy	No
+21	71	Female	Asthma	29	Cancer	Physical Therapy	No
+22	46	Female	Cardiovascular Disease	19	Kidney Disease	Dialysis	No
+23	75	Male	None	22	COPD	Dialysis	No
+24	53	Male	Diabetes	24	Pneumonia	Medication	Yes
+25	18	Female	Cardiovascular Disease	4	Heart Failure	Surgery	No
+26	38	Female	Diabetes	8	Kidney Disease	Chemotherapy	No
+27	72	Female	Diabetes	24	COPD	Medication	Yes
+28	61	Female	Cardiovascular Disease	17	COPD	Medication	No
+29	53	Male	Cardiovascular Disease	1	Kidney Disease	Surgery	No
+30	37	Female	Hypertension	2	Kidney Disease	Chemotherapy	No
+31	45	Female	Cardiovascular Disease	28	Kidney Disease	Dialysis	Yes
+32	61	Male	Cardiovascular Disease	28	Heart Failure	Chemotherapy	Yes
+33	31	Male	Hypertension	1	Cancer	Medication	No
+34	29	Female	Hypertension	8	Cancer	Medication	No
+35	66	Female	None	2	Pneumonia	Physical Therapy	Yes
+36	30	Male	Cardiovascular Disease	16	COPD	Surgery	Yes
+37	63	Female	Asthma	12	Pneumonia	Physical Therapy	No
+38	62	Male	Diabetes	13	Cancer	Medication	Yes
+39	51	Male	Hypertension	30	Kidney Disease	Dialysis	No
+40	23	Female	Cardiovascular Disease	5	COPD	Medication	Yes
+41	76	Male	Asthma	6	Cancer	Chemotherapy	Yes
+42	86	Male	Diabetes	30	COPD	Chemotherapy	No
+43	33	Male	Cardiovascular Disease	28	Pneumonia	Dialysis	No
+44	66	Female	Asthma	2	Cancer	Dialysis	No
+45	28	Female	Diabetes	18	Pneumonia	Physical Therapy	No
+46	88	Male	Asthma	26	COPD	Dialysis	No
+47	55	Female	Hypertension	30	Heart Failure	Medication	No
+48	64	Male	Cardiovascular Disease	23	Kidney Disease	Surgery	Yes
+49	42	Male	Asthma	24	Pneumonia	Chemotherapy	No
+50	26	Female	Asthma	21	COPD	Chemotherapy	No
+51	23	Female	Cardiovascular Disease	14	Cancer	Medication	Yes
+52	47	Female	Diabetes	8	Pneumonia	Surgery	Yes
+53	55	Male	Cardiovascular Disease	11	COPD	Dialysis	No
+54	28	Male	Asthma	8	Heart Failure	Physical Therapy	No
+55	47	Male	None	14	Pneumonia	Surgery	Yes
+56	30	Female	Diabetes	30	COPD	Medication	Yes
+57	66	Female	Asthma	24	Pneumonia	Dialysis	Yes
+58	53	Male	None	11	COPD	Dialysis	Yes
+59	76	Female	Diabetes	9	Kidney Disease	Dialysis	No
+60	64	Female	Hypertension	27	COPD	Surgery	No
+61	38	Female	Cardiovascular Disease	3	COPD	Dialysis	No
+62	65	Female	Diabetes	19	COPD	Surgery	No
+63	63	Male	Diabetes	12	Cancer	Medication	Yes
+64	44	Female	Asthma	4	COPD	Physical Therapy	Yes
+65	52	Male	None	17	Kidney Disease	Surgery	No
+66	27	Male	Diabetes	22	Heart Failure	Medication	Yes
+67	39	Male	Cardiovascular Disease	29	Kidney Disease	Surgery	No
+68	86	Female	Diabetes	2	Heart Failure	Medication	Yes
+69	49	Female	Diabetes	6	Cancer	Physical Therapy	No
+70	38	Male	Asthma	8	Cancer	Chemotherapy	No
+71	77	Female	Diabetes	26	Cancer	Physical Therapy	Yes
+72	66	Male	None	17	Heart Failure	Chemotherapy	Yes
+73	52	Female	Asthma	2	Kidney Disease	Chemotherapy	Yes
+74	89	Male	Hypertension	13	Pneumonia	Dialysis	Yes
+75	46	Female	Hypertension	3	Cancer	Surgery	No
+76	59	Female	Asthma	29	Heart Failure	Dialysis	No
+77	25	Female	None	15	Kidney Disease	Medication	Yes
+78	47	Female	Asthma	28	Cancer	Medication	No
+79	22	Female	Asthma	10	COPD	Medication	Yes
+80	58	Male	Asthma	25	Kidney Disease	Dialysis	No
+81	69	Male	Asthma	28	Heart Failure	Physical Therapy	No
+82	52	Female	Diabetes	10	Pneumonia	Dialysis	Yes
+83	26	Male	Cardiovascular Disease	11	Pneumonia	Dialysis	Yes
+84	45	Female	Hypertension	3	Pneumonia	Physical Therapy	No
+85	90	Male	None	18	COPD	Physical Therapy	Yes
+86	58	Male	Diabetes	15	Kidney Disease	Physical Therapy	Yes
+87	45	Female	Hypertension	1	Cancer	Surgery	Yes
+88	81	Female	Cardiovascular Disease	12	Kidney Disease	Dialysis	Yes
+89	68	Female	Asthma	7	Pneumonia	Surgery	Yes
+90	76	Male	Cardiovascular Disease	10	COPD	Chemotherapy	No
+91	36	Male	Hypertension	19	Pneumonia	Chemotherapy	No
+92	51	Male	Hypertension	26	Heart Failure	Dialysis	No
+93	35	Male	Diabetes	10	Kidney Disease	Medication	No
+94	49	Female	Diabetes	24	COPD	Physical Therapy	No
+95	89	Female	None	20	Pneumonia	Surgery	Yes
+96	86	Male	Asthma	8	COPD	Chemotherapy	Yes
+97	51	Male	Cardiovascular Disease	15	Heart Failure	Dialysis	Yes
+98	72	Male	Asthma	12	Heart Failure	Medication	Yes
+99	69	Male	Cardiovascular Disease	19	Kidney Disease	Dialysis	Yes
+100	64	Female	Asthma	16	COPD	Medication	No
+101	46	Female	Hypertension	25	Pneumonia	Dialysis	Yes
+102	35	Female	Hypertension	25	Pneumonia	Physical Therapy	No
+103	83	Female	Asthma	7	Cancer	Physical Therapy	No
+104	81	Male	None	24	Pneumonia	Medication	No
+105	29	Female	Hypertension	29	Kidney Disease	Dialysis	Yes
+106	24	Male	None	18	Heart Failure	Physical Therapy	No
+107	32	Female	Hypertension	25	Pneumonia	Dialysis	Yes
+108	37	Female	Diabetes	26	Cancer	Dialysis	Yes
+109	38	Female	Diabetes	8	Kidney Disease	Physical Therapy	No
+110	72	Male	Asthma	5	Kidney Disease	Chemotherapy	No
+111	26	Female	Cardiovascular Disease	1	Kidney Disease	Chemotherapy	No
+112	67	Male	Diabetes	30	Kidney Disease	Dialysis	No
+113	66	Female	Hypertension	14	Kidney Disease	Chemotherapy	Yes
+114	77	Female	Hypertension	1	Kidney Disease	Surgery	Yes
+115	85	Male	Diabetes	8	Heart Failure	Physical Therapy	Yes
+116	50	Female	Diabetes	18	Heart Failure	Chemotherapy	No
+117	88	Male	Cardiovascular Disease	12	Cancer	Chemotherapy	Yes
+118	19	Female	Diabetes	21	Pneumonia	Dialysis	Yes
+119	32	Female	Asthma	27	COPD	Medication	Yes
+120	86	Male	Cardiovascular Disease	23	Heart Failure	Chemotherapy	Yes
+121	52	Female	Diabetes	29	COPD	Medication	Yes
+122	61	Female	Hypertension	1	Cancer	Physical Therapy	No
+123	32	Male	Diabetes	11	Pneumonia	Medication	Yes
+124	55	Male	Asthma	1	Heart Failure	Chemotherapy	Yes
+125	73	Female	Asthma	25	Heart Failure	Surgery	Yes
+126	38	Male	Hypertension	22	Pneumonia	Surgery	No
+127	76	Male	Cardiovascular Disease	13	Pneumonia	Physical Therapy	No
+128	18	Male	Hypertension	28	COPD	Chemotherapy	Yes
+129	51	Male	Diabetes	24	COPD	Physical Therapy	Yes
+130	82	Female	Hypertension	24	Pneumonia	Dialysis	Yes
+131	40	Male	Cardiovascular Disease	10	Heart Failure	Dialysis	No
+132	82	Male	None	4	Kidney Disease	Medication	Yes
+133	31	Male	Hypertension	7	Cancer	Physical Therapy	Yes
+134	56	Male	Cardiovascular Disease	17	Cancer	Surgery	No
+135	82	Male	None	8	COPD	Physical Therapy	Yes
+136	43	Male	Cardiovascular Disease	14	Pneumonia	Medication	No
+137	37	Male	Cardiovascular Disease	16	Heart Failure	Chemotherapy	No
+138	65	Female	None	2	Heart Failure	Physical Therapy	Yes
+139	38	Male	Hypertension	5	COPD	Medication	Yes
+140	87	Male	None	23	COPD	Dialysis	No
+141	85	Female	Hypertension	9	Kidney Disease	Surgery	No
+142	18	Male	Cardiovascular Disease	3	Cancer	Chemotherapy	No
+143	59	Male	Hypertension	2	Cancer	Physical Therapy	No
+144	80	Female	Asthma	30	Cancer	Physical Therapy	Yes
+145	20	Male	None	8	COPD	Surgery	No
+146	32	Male	None	29	Kidney Disease	Dialysis	Yes
+147	64	Male	Diabetes	28	Pneumonia	Physical Therapy	No
+148	57	Male	Cardiovascular Disease	17	COPD	Surgery	No
+149	48	Male	Cardiovascular Disease	14	Kidney Disease	Surgery	Yes
+150	25	Female	Hypertension	23	COPD	Chemotherapy	Yes
+151	48	Male	Asthma	29	Pneumonia	Surgery	No
+152	90	Female	Cardiovascular Disease	12	Pneumonia	Surgery	No
+153	28	Male	Asthma	15	Kidney Disease	Surgery	No
+154	28	Male	Diabetes	24	Heart Failure	Physical Therapy	Yes
+155	80	Female	None	3	Pneumonia	Surgery	Yes
+156	26	Male	Asthma	19	Pneumonia	Surgery	Yes
+157	86	Male	Cardiovascular Disease	4	Pneumonia	Surgery	Yes
+158	34	Female	None	17	Pneumonia	Surgery	Yes
+159	34	Male	Asthma	5	Heart Failure	Dialysis	No
+160	78	Male	Asthma	21	Cancer	Physical Therapy	No
+161	88	Female	Hypertension	27	Cancer	Surgery	No
+162	39	Female	None	13	Pneumonia	Medication	No
+163	51	Female	Asthma	3	Heart Failure	Medication	No
+164	85	Male	Hypertension	19	COPD	Medication	No
+165	72	Female	Cardiovascular Disease	19	Heart Failure	Chemotherapy	Yes
+166	45	Male	Asthma	2	Kidney Disease	Dialysis	No
+167	87	Male	Hypertension	14	COPD	Medication	No
+168	43	Female	Hypertension	22	Cancer	Dialysis	No
+169	57	Female	None	5	Cancer	Medication	Yes
+170	69	Male	Hypertension	8	Heart Failure	Chemotherapy	Yes
+171	65	Male	Asthma	10	Cancer	Physical Therapy	No
+172	74	Female	Diabetes	9	Heart Failure	Dialysis	Yes
+173	84	Female	Cardiovascular Disease	28	Heart Failure	Physical Therapy	Yes
+174	75	Female	Asthma	11	Heart Failure	Chemotherapy	Yes
+175	33	Male	Asthma	30	Heart Failure	Dialysis	Yes
+176	49	Female	Cardiovascular Disease	26	Heart Failure	Physical Therapy	No
+177	46	Female	Cardiovascular Disease	13	Kidney Disease	Chemotherapy	Yes
+178	26	Male	Hypertension	23	Kidney Disease	Surgery	Yes
+179	61	Male	Asthma	27	Kidney Disease	Dialysis	No
+180	20	Female	Hypertension	24	Heart Failure	Physical Therapy	No
+181	88	Male	None	11	Cancer	Chemotherapy	Yes
+182	47	Male	Hypertension	11	COPD	Surgery	No
+183	46	Male	None	15	Kidney Disease	Dialysis	No
+184	18	Female	Diabetes	9	Pneumonia	Surgery	Yes
+185	27	Female	Asthma	8	Pneumonia	Medication	Yes
+186	25	Female	None	3	Heart Failure	Dialysis	Yes
+187	47	Female	Diabetes	7	COPD	Chemotherapy	No
+188	26	Female	Cardiovascular Disease	5	Kidney Disease	Chemotherapy	No
+189	22	Female	Hypertension	25	Heart Failure	Dialysis	Yes
+190	60	Male	Diabetes	25	Cancer	Medication	No
+191	27	Male	None	19	COPD	Dialysis	No
+192	83	Male	Asthma	4	Cancer	Physical Therapy	No
+193	48	Female	Cardiovascular Disease	5	Cancer	Chemotherapy	Yes
+194	53	Female	Cardiovascular Disease	4	Pneumonia	Surgery	Yes
+195	80	Male	Diabetes	6	Kidney Disease	Chemotherapy	No
+196	45	Female	Diabetes	15	Heart Failure	Medication	No
+197	87	Female	Hypertension	15	Cancer	Dialysis	No
+198	34	Female	Cardiovascular Disease	11	Cancer	Chemotherapy	Yes
+199	78	Female	Cardiovascular Disease	14	Heart Failure	Physical Therapy	Yes
+200	49	Female	Hypertension	4	COPD	Medication	Yes
+201	78	Male	Asthma	18	Heart Failure	Medication	No
+202	70	Female	Hypertension	12	Heart Failure	Surgery	No
+203	42	Female	None	25	Kidney Disease	Chemotherapy	No
+204	30	Female	None	7	Pneumonia	Dialysis	No
+205	30	Female	Diabetes	15	Cancer	Medication	Yes
+206	73	Female	Hypertension	10	Pneumonia	Physical Therapy	Yes
+207	63	Male	Hypertension	15	COPD	Physical Therapy	No
+208	72	Female	Diabetes	9	Cancer	Dialysis	Yes
+209	70	Male	Asthma	28	Pneumonia	Physical Therapy	No
+210	77	Male	Hypertension	4	COPD	Surgery	No
+211	24	Male	Cardiovascular Disease	3	Kidney Disease	Dialysis	No
+212	30	Male	Hypertension	6	COPD	Physical Therapy	No
+213	25	Female	Asthma	26	Pneumonia	Surgery	Yes
+214	69	Male	Hypertension	22	Heart Failure	Physical Therapy	No
+215	61	Female	Cardiovascular Disease	10	Cancer	Chemotherapy	No
+216	31	Male	None	27	Kidney Disease	Dialysis	Yes
+217	49	Male	None	23	Pneumonia	Physical Therapy	Yes
+218	42	Female	Asthma	23	Kidney Disease	Physical Therapy	No
+219	42	Male	Asthma	20	COPD	Surgery	No
+220	86	Female	Cardiovascular Disease	2	Pneumonia	Chemotherapy	Yes
+221	75	Female	None	7	Heart Failure	Chemotherapy	Yes
+222	35	Female	None	27	Heart Failure	Surgery	No
+223	72	Male	None	28	Heart Failure	Chemotherapy	Yes
+224	41	Female	None	11	Heart Failure	Physical Therapy	No
+225	53	Female	Cardiovascular Disease	5	Cancer	Physical Therapy	No
+226	77	Female	Asthma	3	Kidney Disease	Chemotherapy	Yes
+227	49	Male	Asthma	23	Pneumonia	Physical Therapy	No
+228	27	Male	Diabetes	8	Heart Failure	Chemotherapy	Yes
+229	74	Male	Asthma	12	Cancer	Surgery	Yes
+230	88	Female	None	13	Heart Failure	Dialysis	No
+231	30	Male	Hypertension	17	Heart Failure	Surgery	No
+232	24	Male	None	2	COPD	Dialysis	Yes
+233	87	Female	None	22	Pneumonia	Surgery	No
+234	19	Female	Asthma	10	Kidney Disease	Medication	No
+235	29	Male	Diabetes	9	COPD	Physical Therapy	Yes
+236	48	Female	Cardiovascular Disease	27	COPD	Surgery	No
+237	39	Male	Hypertension	6	Kidney Disease	Dialysis	Yes
+238	70	Female	Hypertension	1	Heart Failure	Chemotherapy	No
+239	80	Male	Diabetes	13	Heart Failure	Chemotherapy	No
+240	79	Female	None	28	Pneumonia	Surgery	No
+241	45	Male	Cardiovascular Disease	15	Heart Failure	Surgery	Yes
+242	69	Male	Cardiovascular Disease	18	COPD	Surgery	No
+243	25	Female	Cardiovascular Disease	24	COPD	Chemotherapy	Yes
+244	39	Female	Asthma	18	COPD	Medication	Yes
+245	66	Female	None	8	Kidney Disease	Surgery	No
+246	18	Female	Hypertension	4	Heart Failure	Chemotherapy	Yes
+247	67	Male	Hypertension	15	Heart Failure	Chemotherapy	Yes
+248	51	Male	None	4	Heart Failure	Surgery	Yes
+249	76	Male	Hypertension	26	Heart Failure	Dialysis	No
+250	54	Female	Asthma	26	Pneumonia	Dialysis	Yes
+251	72	Male	Cardiovascular Disease	5	Pneumonia	Physical Therapy	No
+252	89	Male	Hypertension	4	COPD	Chemotherapy	Yes
+253	80	Male	Asthma	1	COPD	Physical Therapy	Yes
+254	37	Male	Cardiovascular Disease	2	Kidney Disease	Physical Therapy	No
+255	42	Male	None	27	Cancer	Dialysis	No
+256	55	Female	None	25	COPD	Dialysis	No
+257	45	Female	Asthma	8	Heart Failure	Medication	No
+258	25	Female	Asthma	5	COPD	Chemotherapy	Yes
+259	87	Female	Asthma	7	COPD	Medication	Yes
+260	25	Male	Hypertension	27	Pneumonia	Surgery	Yes
+261	58	Female	None	13	Heart Failure	Medication	Yes
+262	25	Female	Hypertension	12	Kidney Disease	Surgery	Yes
+263	24	Female	Hypertension	22	Kidney Disease	Physical Therapy	No
+264	79	Male	Cardiovascular Disease	21	Kidney Disease	Chemotherapy	No
+265	82	Male	Asthma	21	COPD	Medication	Yes
+266	85	Male	Hypertension	3	Kidney Disease	Chemotherapy	Yes
+267	38	Male	Cardiovascular Disease	19	Kidney Disease	Physical Therapy	No
+268	25	Male	Diabetes	19	Kidney Disease	Physical Therapy	Yes
+269	83	Male	Cardiovascular Disease	9	Pneumonia	Physical Therapy	Yes
+270	28	Female	Diabetes	30	Heart Failure	Physical Therapy	No
+271	41	Female	Diabetes	27	Pneumonia	Dialysis	No
+272	26	Female	Diabetes	3	Heart Failure	Dialysis	Yes
+273	26	Female	Diabetes	1	Pneumonia	Physical Therapy	Yes
+274	48	Female	Asthma	3	Heart Failure	Physical Therapy	No
+275	69	Female	Hypertension	7	Kidney Disease	Medication	Yes
+276	33	Female	Hypertension	29	Cancer	Chemotherapy	No
+277	90	Male	Diabetes	21	Kidney Disease	Medication	Yes
+278	49	Male	Hypertension	15	Cancer	Physical Therapy	No
+279	23	Female	Diabetes	26	Kidney Disease	Dialysis	Yes
+280	28	Female	Hypertension	5	Pneumonia	Surgery	Yes
+281	71	Male	Cardiovascular Disease	3	Cancer	Dialysis	No
+282	90	Female	Asthma	29	Kidney Disease	Dialysis	No
+283	84	Female	None	28	COPD	Dialysis	No
+284	58	Female	Diabetes	27	Cancer	Surgery	No
+285	51	Male	Cardiovascular Disease	26	Heart Failure	Physical Therapy	Yes
+286	44	Male	Cardiovascular Disease	11	Pneumonia	Physical Therapy	No
+287	58	Female	Asthma	4	Kidney Disease	Physical Therapy	Yes
+288	48	Male	Asthma	2	Kidney Disease	Dialysis	Yes
+289	51	Male	Diabetes	15	Heart Failure	Chemotherapy	No
+290	68	Male	Diabetes	2	Kidney Disease	Chemotherapy	Yes
+291	34	Female	Cardiovascular Disease	6	Kidney Disease	Medication	Yes
+292	56	Male	Cardiovascular Disease	30	Heart Failure	Chemotherapy	Yes
+293	76	Male	Asthma	19	Heart Failure	Dialysis	Yes
+294	58	Female	Diabetes	14	COPD	Physical Therapy	No
+295	27	Female	Diabetes	27	COPD	Chemotherapy	No
+296	19	Female	Cardiovascular Disease	24	Heart Failure	Surgery	No
+297	76	Male	None	13	Cancer	Surgery	Yes
+298	90	Male	Cardiovascular Disease	16	Cancer	Physical Therapy	No
+299	30	Female	None	1	Cancer	Chemotherapy	Yes
+300	27	Female	Diabetes	13	Pneumonia	Dialysis	Yes
+301	86	Male	Cardiovascular Disease	22	COPD	Dialysis	Yes
+302	45	Male	Asthma	14	Cancer	Chemotherapy	No
+303	82	Female	Hypertension	6	Cancer	Medication	No
+304	51	Male	Diabetes	12	Cancer	Medication	No
+305	34	Female	Diabetes	7	Heart Failure	Surgery	Yes
+306	62	Male	Cardiovascular Disease	30	Kidney Disease	Physical Therapy	Yes
+307	26	Female	Hypertension	6	Pneumonia	Surgery	Yes
+308	49	Male	Hypertension	9	Kidney Disease	Physical Therapy	No
+309	65	Female	Hypertension	9	COPD	Physical Therapy	Yes
+310	54	Male	Cardiovascular Disease	15	Kidney Disease	Physical Therapy	Yes
+311	38	Female	Cardiovascular Disease	29	Pneumonia	Physical Therapy	No
+312	74	Male	None	5	Cancer	Dialysis	Yes
+313	87	Female	None	2	Cancer	Chemotherapy	Yes
+314	56	Female	None	20	Heart Failure	Physical Therapy	No
+315	85	Female	Asthma	20	Heart Failure	Chemotherapy	No
+316	19	Female	Diabetes	20	Pneumonia	Physical Therapy	Yes
+317	88	Female	None	8	Cancer	Dialysis	No
+318	56	Male	Asthma	21	Kidney Disease	Dialysis	No
+319	31	Female	Asthma	10	Kidney Disease	Chemotherapy	No
+320	35	Male	Cardiovascular Disease	16	Pneumonia	Chemotherapy	No
+321	51	Female	Hypertension	14	Heart Failure	Surgery	Yes
+322	32	Male	Hypertension	29	Kidney Disease	Surgery	Yes
+323	31	Female	None	18	COPD	Medication	No
+324	88	Female	Diabetes	16	Pneumonia	Surgery	Yes
+325	37	Male	Diabetes	2	COPD	Surgery	Yes
+326	52	Female	Diabetes	3	COPD	Physical Therapy	No
+327	54	Male	Asthma	9	Heart Failure	Medication	Yes
+328	44	Male	Asthma	13	Cancer	Surgery	No
+329	61	Female	Asthma	5	Pneumonia	Surgery	No
+330	44	Female	Cardiovascular Disease	14	Cancer	Chemotherapy	No
+331	51	Male	Asthma	7	Kidney Disease	Medication	No
+332	82	Female	Diabetes	21	Kidney Disease	Medication	Yes
+333	80	Female	Diabetes	29	Pneumonia	Medication	Yes
+334	50	Female	Hypertension	26	Heart Failure	Chemotherapy	Yes
+335	24	Male	Diabetes	17	Kidney Disease	Dialysis	No
+336	29	Female	Asthma	8	Kidney Disease	Medication	No
+337	72	Male	Asthma	21	Cancer	Medication	No
+338	53	Male	None	26	Kidney Disease	Chemotherapy	Yes
+339	23	Male	Cardiovascular Disease	18	Heart Failure	Dialysis	No
+340	18	Male	Diabetes	26	Kidney Disease	Medication	No
+341	60	Female	Cardiovascular Disease	1	Kidney Disease	Medication	No
+342	34	Female	Diabetes	13	COPD	Physical Therapy	No
+343	51	Male	Hypertension	26	Heart Failure	Dialysis	Yes
+344	38	Male	Hypertension	23	Kidney Disease	Surgery	Yes
+345	74	Male	Cardiovascular Disease	12	Heart Failure	Medication	No
+346	88	Male	Asthma	16	Heart Failure	Chemotherapy	Yes
+347	72	Female	None	18	Kidney Disease	Physical Therapy	No
+348	89	Male	Diabetes	26	Kidney Disease	Surgery	No
+349	19	Male	Diabetes	16	Heart Failure	Surgery	No
+350	32	Male	None	12	Cancer	Physical Therapy	Yes
+351	27	Male	Cardiovascular Disease	30	Cancer	Chemotherapy	No
+352	37	Male	Cardiovascular Disease	19	Heart Failure	Surgery	No
+353	87	Female	Diabetes	17	Heart Failure	Surgery	Yes
+354	22	Female	Hypertension	11	Cancer	Dialysis	Yes
+355	65	Female	None	13	Cancer	Surgery	No
+356	88	Female	Diabetes	9	COPD	Medication	Yes
+357	36	Female	Hypertension	6	Cancer	Medication	No
+358	73	Male	Cardiovascular Disease	1	Cancer	Physical Therapy	Yes
+359	34	Female	Hypertension	11	Pneumonia	Physical Therapy	No
+360	23	Male	Asthma	20	Kidney Disease	Chemotherapy	No
+361	57	Female	Diabetes	8	COPD	Chemotherapy	No
+362	64	Female	None	1	COPD	Dialysis	No
+363	23	Female	Hypertension	29	Heart Failure	Physical Therapy	Yes
+364	63	Female	Cardiovascular Disease	26	Pneumonia	Dialysis	Yes
+365	44	Male	Hypertension	25	Kidney Disease	Chemotherapy	Yes
+366	49	Female	Cardiovascular Disease	9	COPD	Surgery	No
+367	31	Male	Asthma	2	Cancer	Dialysis	No
+368	63	Female	Cardiovascular Disease	26	Cancer	Surgery	Yes
+369	89	Female	None	16	Cancer	Dialysis	No
+370	70	Female	Asthma	17	Kidney Disease	Dialysis	Yes
+371	37	Male	Hypertension	12	COPD	Chemotherapy	No
+372	48	Male	Diabetes	25	Kidney Disease	Dialysis	No
+373	38	Female	Cardiovascular Disease	19	Heart Failure	Chemotherapy	No
+374	40	Female	None	8	Heart Failure	Dialysis	Yes
+375	70	Male	Diabetes	6	Pneumonia	Dialysis	Yes
+376	21	Male	Diabetes	4	Heart Failure	Physical Therapy	Yes
+377	40	Female	Asthma	8	COPD	Physical Therapy	No
+378	60	Female	Hypertension	22	COPD	Chemotherapy	Yes
+379	70	Male	Diabetes	8	COPD	Dialysis	No
+380	49	Female	None	9	Cancer	Surgery	No
+381	52	Male	Cardiovascular Disease	18	Cancer	Medication	Yes
+382	38	Female	Cardiovascular Disease	27	COPD	Chemotherapy	No
+383	31	Female	Cardiovascular Disease	26	Heart Failure	Physical Therapy	Yes
+384	66	Male	Asthma	30	Heart Failure	Physical Therapy	No
+385	22	Male	None	24	Pneumonia	Chemotherapy	No
+386	78	Female	Diabetes	2	Kidney Disease	Physical Therapy	Yes
+387	46	Male	None	25	Pneumonia	Surgery	Yes
+388	43	Female	Asthma	8	Kidney Disease	Physical Therapy	No
+389	76	Male	Asthma	19	Heart Failure	Medication	No
+390	62	Male	Hypertension	28	COPD	Medication	No
+391	57	Male	None	26	Cancer	Dialysis	Yes
+392	47	Male	Cardiovascular Disease	13	Pneumonia	Surgery	Yes
+393	46	Female	Asthma	12	Pneumonia	Physical Therapy	Yes
+394	21	Female	Asthma	30	Heart Failure	Physical Therapy	Yes
+395	42	Male	Hypertension	27	Kidney Disease	Chemotherapy	Yes
+396	69	Female	Cardiovascular Disease	28	Pneumonia	Dialysis	Yes
+397	60	Female	Asthma	6	Kidney Disease	Medication	Yes
+398	53	Female	Diabetes	6	Pneumonia	Chemotherapy	No
+399	26	Female	Cardiovascular Disease	8	COPD	Chemotherapy	No
+400	53	Female	None	19	Heart Failure	Physical Therapy	No
+401	62	Female	Hypertension	11	Kidney Disease	Medication	No
+402	83	Male	Diabetes	26	Heart Failure	Chemotherapy	Yes
+403	69	Female	Diabetes	24	Cancer	Physical Therapy	Yes
+404	86	Male	None	23	Heart Failure	Dialysis	No
+405	60	Female	Hypertension	12	Kidney Disease	Surgery	No
+406	21	Male	Asthma	30	Kidney Disease	Medication	No
+407	32	Female	Hypertension	19	Cancer	Dialysis	No
+408	51	Female	Asthma	1	Cancer	Physical Therapy	No
+409	40	Female	None	23	Pneumonia	Surgery	Yes
+410	51	Male	None	23	Kidney Disease	Chemotherapy	Yes
+411	22	Female	Diabetes	12	Heart Failure	Dialysis	No
+412	31	Male	Diabetes	19	Cancer	Chemotherapy	Yes
+413	73	Male	Diabetes	19	Heart Failure	Chemotherapy	No
+414	62	Female	None	5	Cancer	Surgery	Yes
+415	58	Female	Asthma	19	Kidney Disease	Surgery	No
+416	73	Female	None	7	Cancer	Chemotherapy	Yes
+417	83	Male	None	27	Kidney Disease	Chemotherapy	Yes
+418	32	Male	Diabetes	26	Cancer	Surgery	No
+419	67	Female	Hypertension	29	Pneumonia	Physical Therapy	Yes
+420	42	Female	Diabetes	16	Cancer	Medication	No
+421	50	Female	Hypertension	18	Pneumonia	Chemotherapy	Yes
+422	23	Male	Asthma	10	Pneumonia	Surgery	Yes
+423	73	Male	Asthma	6	Heart Failure	Dialysis	No
+424	18	Female	Cardiovascular Disease	16	Kidney Disease	Dialysis	No
+425	84	Female	Cardiovascular Disease	2	Cancer	Physical Therapy	No
+426	86	Male	Cardiovascular Disease	3	Cancer	Physical Therapy	No
+427	43	Female	Asthma	2	COPD	Dialysis	No
+428	64	Female	Diabetes	8	Cancer	Physical Therapy	No
+429	73	Male	Diabetes	20	Kidney Disease	Chemotherapy	No
+430	26	Male	Diabetes	8	Kidney Disease	Surgery	Yes
+431	60	Female	None	1	Cancer	Medication	Yes
+432	58	Female	Cardiovascular Disease	17	Pneumonia	Surgery	No
+433	33	Male	Diabetes	16	COPD	Surgery	Yes
+434	56	Male	Cardiovascular Disease	1	Kidney Disease	Physical Therapy	Yes
+435	82	Male	Cardiovascular Disease	11	COPD	Medication	No
+436	57	Male	None	30	COPD	Chemotherapy	No
+437	70	Male	Asthma	20	Kidney Disease	Dialysis	No
+438	59	Female	Diabetes	7	Pneumonia	Chemotherapy	Yes
+439	69	Male	None	26	Pneumonia	Physical Therapy	No
+440	55	Male	Asthma	5	Kidney Disease	Dialysis	Yes
+441	88	Female	Asthma	11	Cancer	Chemotherapy	Yes
+442	34	Male	Diabetes	23	Cancer	Surgery	Yes
+443	42	Female	Cardiovascular Disease	6	COPD	Physical Therapy	Yes
+444	71	Male	Hypertension	30	Cancer	Medication	Yes
+445	66	Male	Cardiovascular Disease	26	COPD	Surgery	Yes
+446	40	Male	Cardiovascular Disease	28	Cancer	Medication	No
+447	90	Male	Hypertension	28	Pneumonia	Dialysis	No
+448	56	Female	Asthma	11	Pneumonia	Medication	Yes
+449	69	Male	Hypertension	2	Pneumonia	Surgery	Yes
+450	88	Female	Hypertension	1	Cancer	Medication	Yes
+451	18	Female	None	5	COPD	Physical Therapy	No
+452	56	Male	None	19	COPD	Physical Therapy	No
+453	54	Female	None	23	Pneumonia	Surgery	No
+454	44	Female	Asthma	30	Pneumonia	Chemotherapy	Yes
+455	73	Female	Hypertension	5	Cancer	Medication	No
+456	59	Male	Diabetes	25	Cancer	Surgery	No
+457	77	Male	Hypertension	4	COPD	Medication	No
+458	74	Female	Asthma	28	Heart Failure	Surgery	No
+459	74	Female	None	17	COPD	Medication	No
+460	45	Male	Asthma	28	Cancer	Chemotherapy	Yes
+461	83	Female	None	12	Kidney Disease	Surgery	Yes
+462	78	Female	Asthma	3	Cancer	Physical Therapy	No
+463	39	Female	Diabetes	12	Cancer	Chemotherapy	Yes
+464	28	Female	None	23	Kidney Disease	Physical Therapy	No
+465	54	Female	None	22	Cancer	Chemotherapy	Yes
+466	83	Female	Hypertension	13	COPD	Physical Therapy	No
+467	60	Male	Asthma	19	Kidney Disease	Chemotherapy	No
+468	29	Male	Cardiovascular Disease	4	Heart Failure	Medication	No
+469	48	Male	Cardiovascular Disease	11	Cancer	Physical Therapy	Yes
+470	57	Female	Hypertension	10	Heart Failure	Medication	Yes
+471	46	Male	Asthma	11	Heart Failure	Surgery	No
+472	43	Female	Diabetes	5	Kidney Disease	Medication	No
+473	36	Female	Hypertension	6	Pneumonia	Physical Therapy	Yes
+474	21	Male	None	24	Heart Failure	Chemotherapy	No
+475	23	Male	Diabetes	14	Heart Failure	Medication	Yes
+476	49	Female	Asthma	26	Pneumonia	Dialysis	Yes
+477	78	Male	None	21	COPD	Chemotherapy	No
+478	27	Male	Cardiovascular Disease	16	Pneumonia	Surgery	No
+479	76	Female	Asthma	21	COPD	Surgery	Yes
+480	71	Female	None	11	COPD	Physical Therapy	Yes
+481	42	Male	Asthma	6	Pneumonia	Chemotherapy	Yes
+482	67	Female	None	23	Heart Failure	Medication	No
+483	81	Male	Asthma	18	COPD	Medication	Yes
+484	69	Male	Cardiovascular Disease	23	Pneumonia	Surgery	No
+485	49	Female	Hypertension	29	Cancer	Chemotherapy	Yes
+486	36	Female	None	30	Heart Failure	Chemotherapy	No
+487	18	Male	None	20	COPD	Surgery	Yes
+488	31	Female	Cardiovascular Disease	26	Kidney Disease	Medication	No
+489	72	Male	Hypertension	12	Heart Failure	Surgery	No
+490	46	Female	Asthma	8	Cancer	Chemotherapy	No
+491	40	Female	None	22	Cancer	Medication	No
+492	84	Male	Hypertension	19	Pneumonia	Dialysis	No
+493	77	Female	Asthma	27	Cancer	Surgery	No
+494	24	Male	None	6	Kidney Disease	Chemotherapy	No
+495	89	Female	None	13	Pneumonia	Chemotherapy	No
+496	49	Male	Asthma	10	Cancer	Physical Therapy	Yes
+497	33	Male	Cardiovascular Disease	24	COPD	Physical Therapy	Yes
+498	76	Female	Hypertension	23	Heart Failure	Surgery	No
+499	35	Male	None	10	Kidney Disease	Medication	No
+500	77	Female	Asthma	5	Kidney Disease	Dialysis	Yes
+501	85	Male	None	6	Kidney Disease	Dialysis	No
+502	89	Male	Asthma	24	COPD	Medication	Yes
+503	58	Male	None	1	Cancer	Physical Therapy	Yes
+504	74	Female	Diabetes	23	Heart Failure	Chemotherapy	No
+505	82	Female	Cardiovascular Disease	19	Heart Failure	Physical Therapy	Yes
+506	72	Male	Hypertension	13	COPD	Surgery	No
+507	88	Female	Cardiovascular Disease	28	Pneumonia	Physical Therapy	No
+508	75	Female	Cardiovascular Disease	25	Cancer	Medication	Yes
+509	38	Male	Hypertension	19	Kidney Disease	Surgery	Yes
+510	78	Male	Cardiovascular Disease	2	Pneumonia	Medication	Yes
+511	75	Male	Diabetes	6	COPD	Surgery	No
+512	51	Female	Asthma	20	Cancer	Chemotherapy	No
+513	49	Male	Hypertension	11	Cancer	Physical Therapy	Yes
+514	53	Male	Asthma	30	Cancer	Medication	No
+515	84	Female	None	26	Pneumonia	Surgery	No
+516	80	Male	Diabetes	20	Pneumonia	Physical Therapy	No
+517	48	Female	Asthma	8	COPD	Dialysis	Yes
+518	53	Male	Asthma	21	Kidney Disease	Medication	Yes
+519	74	Female	Hypertension	19	Pneumonia	Chemotherapy	Yes
+520	27	Male	None	4	Heart Failure	Surgery	Yes
+521	54	Male	Hypertension	30	Pneumonia	Medication	No
+522	48	Male	None	16	Pneumonia	Medication	No
+523	52	Female	Hypertension	5	Cancer	Dialysis	Yes
+524	60	Female	Asthma	11	Heart Failure	Chemotherapy	No
+525	58	Male	Asthma	24	Kidney Disease	Dialysis	Yes
+526	87	Male	Diabetes	3	Heart Failure	Surgery	No
+527	28	Female	Asthma	8	Kidney Disease	Physical Therapy	Yes
+528	35	Male	Cardiovascular Disease	12	COPD	Medication	Yes
+529	37	Male	Asthma	11	Cancer	Surgery	No
+530	47	Male	Cardiovascular Disease	6	COPD	Surgery	Yes
+531	67	Female	Asthma	21	Pneumonia	Chemotherapy	Yes
+532	37	Female	Cardiovascular Disease	29	Pneumonia	Medication	Yes
+533	45	Male	Cardiovascular Disease	3	Cancer	Dialysis	No
+534	26	Female	Asthma	27	COPD	Physical Therapy	No
+535	71	Male	Cardiovascular Disease	23	Heart Failure	Medication	No
+536	70	Female	Diabetes	22	COPD	Medication	Yes
+537	60	Male	None	21	Kidney Disease	Physical Therapy	No
+538	87	Male	Cardiovascular Disease	24	Pneumonia	Surgery	Yes
+539	77	Female	Cardiovascular Disease	29	Heart Failure	Dialysis	Yes
+540	71	Male	Diabetes	11	Pneumonia	Medication	No
+541	25	Male	Diabetes	15	COPD	Surgery	Yes
+542	44	Female	Hypertension	1	Cancer	Chemotherapy	No
+543	71	Female	None	9	Heart Failure	Surgery	Yes
+544	67	Male	Hypertension	7	Cancer	Physical Therapy	Yes
+545	20	Female	Cardiovascular Disease	8	COPD	Dialysis	Yes
+546	66	Female	Diabetes	23	Kidney Disease	Physical Therapy	No
+547	79	Female	Cardiovascular Disease	3	Cancer	Chemotherapy	No
+548	18	Male	Asthma	12	Cancer	Surgery	No
+549	63	Female	None	9	COPD	Medication	No
+550	56	Male	Asthma	26	Heart Failure	Chemotherapy	No
+551	67	Female	Diabetes	4	COPD	Physical Therapy	Yes
+552	71	Male	Diabetes	24	Cancer	Surgery	No
+553	86	Male	Diabetes	1	Pneumonia	Physical Therapy	No
+554	87	Female	None	2	Pneumonia	Medication	No
+555	46	Male	Hypertension	13	Cancer	Chemotherapy	No
+556	80	Male	Cardiovascular Disease	15	Heart Failure	Chemotherapy	Yes
+557	46	Female	Cardiovascular Disease	24	Cancer	Dialysis	No
+558	52	Female	Cardiovascular Disease	14	Pneumonia	Physical Therapy	Yes
+559	73	Male	Cardiovascular Disease	6	Kidney Disease	Dialysis	No
+560	80	Female	Cardiovascular Disease	29	Cancer	Chemotherapy	No
+561	21	Female	Hypertension	14	Cancer	Surgery	No
+562	67	Male	Asthma	16	Kidney Disease	Dialysis	No
+563	61	Male	None	29	Heart Failure	Surgery	Yes
+564	69	Male	Asthma	13	COPD	Dialysis	Yes
+565	39	Female	Asthma	12	Pneumonia	Physical Therapy	No
+566	77	Male	Cardiovascular Disease	18	Pneumonia	Physical Therapy	No
+567	34	Female	Cardiovascular Disease	13	COPD	Chemotherapy	No
+568	86	Male	Hypertension	4	COPD	Physical Therapy	No
+569	21	Male	None	27	COPD	Dialysis	No
+570	68	Male	Diabetes	16	COPD	Dialysis	No
+571	90	Male	Asthma	26	Pneumonia	Surgery	Yes
+572	21	Female	Diabetes	28	Cancer	Medication	No
+573	28	Female	None	19	Cancer	Dialysis	No
+574	72	Female	Asthma	21	Kidney Disease	Surgery	No
+575	35	Female	Diabetes	25	Cancer	Chemotherapy	Yes
+576	77	Female	Diabetes	22	Heart Failure	Physical Therapy	Yes
+577	41	Male	Hypertension	8	Heart Failure	Physical Therapy	No
+578	24	Male	None	6	COPD	Dialysis	Yes
+579	51	Female	None	15	Kidney Disease	Physical Therapy	No
+580	66	Female	None	3	Pneumonia	Chemotherapy	Yes
+581	59	Male	Asthma	26	Cancer	Medication	Yes
+582	45	Female	Hypertension	28	Cancer	Dialysis	Yes
+583	76	Female	Cardiovascular Disease	2	Pneumonia	Chemotherapy	Yes
+584	59	Male	Asthma	10	Heart Failure	Surgery	No
+585	61	Female	None	1	COPD	Medication	Yes
+586	66	Female	Asthma	11	Kidney Disease	Dialysis	Yes
+587	53	Female	Diabetes	9	Heart Failure	Physical Therapy	No
+588	71	Female	Asthma	4	Kidney Disease	Dialysis	No
+589	50	Female	Asthma	3	COPD	Surgery	Yes
+590	28	Female	None	11	Cancer	Physical Therapy	No
+591	78	Male	Diabetes	6	COPD	Medication	No
+592	20	Female	None	29	Heart Failure	Dialysis	Yes
+593	87	Female	Diabetes	13	Cancer	Chemotherapy	Yes
+594	24	Female	Diabetes	6	COPD	Surgery	Yes
+595	62	Female	Diabetes	24	Cancer	Dialysis	Yes
+596	46	Male	None	3	Cancer	Chemotherapy	Yes
+597	26	Female	Diabetes	18	Kidney Disease	Dialysis	Yes
+598	23	Male	Hypertension	29	Kidney Disease	Surgery	Yes
+599	21	Female	Hypertension	3	Heart Failure	Dialysis	Yes
+600	49	Male	Cardiovascular Disease	11	COPD	Physical Therapy	Yes
+601	43	Female	Hypertension	20	Pneumonia	Physical Therapy	Yes
+602	20	Female	Cardiovascular Disease	20	COPD	Chemotherapy	No
+603	37	Male	Hypertension	29	Cancer	Physical Therapy	Yes
+604	48	Male	None	16	Heart Failure	Medication	Yes
+605	34	Female	Cardiovascular Disease	23	Heart Failure	Medication	Yes
+606	78	Female	Asthma	1	Pneumonia	Dialysis	No
+607	32	Female	Asthma	14	Cancer	Medication	No
+608	90	Female	Hypertension	21	Cancer	Medication	No
+609	45	Female	Asthma	6	Heart Failure	Surgery	Yes
+610	77	Male	Hypertension	20	Heart Failure	Surgery	No
+611	50	Female	Hypertension	29	Pneumonia	Medication	No
+612	65	Female	Asthma	14	Pneumonia	Surgery	No
+613	39	Female	Asthma	6	Kidney Disease	Medication	No
+614	32	Male	Diabetes	2	Heart Failure	Chemotherapy	No
+615	38	Female	Cardiovascular Disease	4	Pneumonia	Surgery	Yes
+616	57	Female	Hypertension	11	Cancer	Medication	Yes
+617	31	Female	Asthma	7	Kidney Disease	Medication	No
+618	21	Male	Cardiovascular Disease	7	Heart Failure	Dialysis	Yes
+619	57	Male	Asthma	14	Pneumonia	Chemotherapy	No
+620	66	Female	Asthma	23	Heart Failure	Chemotherapy	No
+621	68	Female	Diabetes	18	Kidney Disease	Dialysis	No
+622	43	Male	Hypertension	24	COPD	Dialysis	Yes
+623	27	Male	Hypertension	30	Heart Failure	Dialysis	No
+624	49	Male	None	24	Heart Failure	Physical Therapy	No
+625	31	Female	Diabetes	18	Heart Failure	Medication	Yes
+626	56	Male	Cardiovascular Disease	9	Heart Failure	Physical Therapy	No
+627	33	Male	Diabetes	22	Pneumonia	Surgery	Yes
+628	90	Male	Cardiovascular Disease	10	COPD	Dialysis	No
+629	23	Male	Hypertension	10	Cancer	Medication	Yes
+630	62	Female	None	8	Heart Failure	Medication	No
+631	86	Female	None	4	Cancer	Surgery	Yes
+632	72	Female	Hypertension	2	Pneumonia	Chemotherapy	No
+633	65	Male	Asthma	13	COPD	Medication	Yes
+634	26	Male	Diabetes	19	Kidney Disease	Chemotherapy	Yes
+635	82	Female	None	18	Kidney Disease	Medication	No
+636	61	Female	Asthma	27	Kidney Disease	Physical Therapy	Yes
+637	19	Female	Cardiovascular Disease	16	Kidney Disease	Dialysis	Yes
+638	71	Female	None	5	Kidney Disease	Chemotherapy	No
+639	80	Male	Cardiovascular Disease	2	COPD	Physical Therapy	No
+640	31	Male	Asthma	12	Heart Failure	Medication	Yes
+641	73	Female	Cardiovascular Disease	1	Kidney Disease	Dialysis	Yes
+642	64	Female	Asthma	14	Heart Failure	Physical Therapy	Yes
+643	76	Female	Cardiovascular Disease	3	Cancer	Dialysis	Yes
+644	37	Female	Diabetes	10	Heart Failure	Medication	No
+645	73	Male	None	27	Cancer	Medication	No
+646	40	Male	None	22	Heart Failure	Physical Therapy	Yes
+647	84	Male	Asthma	21	Cancer	Medication	No
+648	52	Male	Cardiovascular Disease	20	Heart Failure	Surgery	Yes
+649	86	Female	Hypertension	16	Heart Failure	Dialysis	Yes
+650	79	Female	None	7	COPD	Medication	Yes
+651	77	Male	Cardiovascular Disease	4	Cancer	Medication	No
+652	73	Female	Cardiovascular Disease	1	Heart Failure	Surgery	No
+653	52	Female	Diabetes	7	COPD	Dialysis	Yes
+654	59	Female	Hypertension	6	COPD	Chemotherapy	No
+655	49	Male	None	21	Cancer	Surgery	No
+656	29	Female	Diabetes	10	Heart Failure	Surgery	Yes
+657	53	Female	Hypertension	3	COPD	Dialysis	No
+658	75	Male	None	16	Kidney Disease	Surgery	No
+659	49	Male	Diabetes	28	Kidney Disease	Dialysis	No
+660	77	Male	Hypertension	4	Kidney Disease	Surgery	No
+661	90	Male	None	10	Heart Failure	Dialysis	Yes
+662	66	Female	Hypertension	26	Kidney Disease	Dialysis	Yes
+663	61	Male	Cardiovascular Disease	13	Pneumonia	Chemotherapy	Yes
+664	21	Female	Asthma	16	Cancer	Medication	No
+665	81	Male	Asthma	16	Pneumonia	Dialysis	No
+666	59	Female	Cardiovascular Disease	29	Pneumonia	Physical Therapy	Yes
+667	41	Female	Hypertension	22	Kidney Disease	Chemotherapy	No
+668	80	Male	Cardiovascular Disease	9	Cancer	Chemotherapy	No
+669	45	Female	Asthma	3	COPD	Medication	No
+670	63	Female	Asthma	21	Pneumonia	Surgery	No
+671	51	Male	Hypertension	18	COPD	Surgery	Yes
+672	61	Male	Asthma	13	COPD	Dialysis	Yes
+673	53	Female	Cardiovascular Disease	6	Heart Failure	Chemotherapy	No
+674	53	Male	Hypertension	12	Cancer	Dialysis	No
+675	89	Male	Cardiovascular Disease	29	Cancer	Physical Therapy	Yes
+676	19	Male	Hypertension	13	Pneumonia	Surgery	No
+677	84	Male	Asthma	12	Heart Failure	Dialysis	No
+678	42	Male	None	6	Heart Failure	Dialysis	Yes
+679	28	Female	Hypertension	15	Heart Failure	Chemotherapy	Yes
+680	48	Male	Hypertension	2	Cancer	Physical Therapy	Yes
+681	70	Female	None	9	Cancer	Physical Therapy	No
+682	80	Female	Asthma	15	Kidney Disease	Dialysis	Yes
+683	89	Female	Cardiovascular Disease	15	Cancer	Physical Therapy	No
+684	48	Male	Diabetes	9	Cancer	Physical Therapy	No
+685	78	Male	None	8	Heart Failure	Chemotherapy	Yes
+686	80	Male	Diabetes	27	COPD	Chemotherapy	No
+687	75	Female	Asthma	9	Pneumonia	Physical Therapy	No
+688	20	Female	Hypertension	19	COPD	Dialysis	Yes
+689	29	Female	Hypertension	2	Pneumonia	Surgery	No
+690	55	Female	Asthma	5	Kidney Disease	Dialysis	Yes
+691	46	Female	Cardiovascular Disease	25	Cancer	Dialysis	Yes
+692	69	Male	Cardiovascular Disease	23	Pneumonia	Surgery	Yes
+693	49	Male	Asthma	22	Pneumonia	Chemotherapy	Yes
+694	57	Female	Asthma	4	Pneumonia	Dialysis	Yes
+695	65	Male	Asthma	3	Pneumonia	Physical Therapy	Yes
+696	78	Female	Asthma	22	Cancer	Physical Therapy	No
+697	88	Female	Asthma	12	COPD	Chemotherapy	No
+698	85	Female	Asthma	26	Pneumonia	Chemotherapy	Yes
+699	62	Male	Hypertension	18	Heart Failure	Chemotherapy	No
+700	72	Male	Diabetes	14	Pneumonia	Medication	No
+701	88	Male	Cardiovascular Disease	25	Cancer	Medication	No
+702	60	Female	Diabetes	19	Heart Failure	Physical Therapy	Yes
+703	63	Male	Hypertension	8	Cancer	Dialysis	Yes
+704	76	Male	None	18	Kidney Disease	Medication	No
+705	52	Male	Diabetes	2	Cancer	Dialysis	Yes
+706	57	Female	None	27	Heart Failure	Surgery	No
+707	50	Male	Hypertension	13	COPD	Physical Therapy	Yes
+708	47	Male	Cardiovascular Disease	27	Heart Failure	Medication	No
+709	33	Female	None	17	COPD	Physical Therapy	Yes
+710	42	Male	Hypertension	14	Heart Failure	Surgery	Yes
+711	58	Female	Asthma	18	Pneumonia	Surgery	No
+712	33	Female	Cardiovascular Disease	22	Cancer	Physical Therapy	Yes
+713	86	Male	Asthma	28	Kidney Disease	Medication	Yes
+714	41	Female	Cardiovascular Disease	30	COPD	Physical Therapy	Yes
+715	42	Male	Cardiovascular Disease	16	COPD	Dialysis	Yes
+716	45	Female	Diabetes	19	Pneumonia	Dialysis	Yes
+717	79	Male	Cardiovascular Disease	29	Pneumonia	Dialysis	No
+718	53	Female	Diabetes	8	Heart Failure	Dialysis	Yes
+719	85	Male	None	16	COPD	Dialysis	No
+720	54	Male	Cardiovascular Disease	10	Cancer	Surgery	Yes
+721	30	Male	None	3	Heart Failure	Medication	Yes
+722	42	Male	Cardiovascular Disease	13	Pneumonia	Medication	Yes
+723	55	Female	Diabetes	29	COPD	Chemotherapy	Yes
+724	47	Male	Asthma	28	Kidney Disease	Physical Therapy	Yes
+725	64	Male	Cardiovascular Disease	23	Kidney Disease	Surgery	Yes
+726	40	Male	Hypertension	2	COPD	Surgery	No
+727	56	Male	Asthma	17	Cancer	Physical Therapy	Yes
+728	19	Female	Diabetes	19	COPD	Physical Therapy	No
+729	86	Male	Hypertension	29	Cancer	Dialysis	Yes
+730	34	Female	None	17	Pneumonia	Surgery	Yes
+731	53	Male	Diabetes	26	Cancer	Surgery	Yes
+732	23	Female	Asthma	19	Cancer	Physical Therapy	Yes
+733	24	Female	None	22	COPD	Physical Therapy	No
+734	88	Female	None	20	COPD	Medication	Yes
+735	55	Female	Diabetes	5	Kidney Disease	Dialysis	Yes
+736	34	Male	Asthma	4	Pneumonia	Chemotherapy	Yes
+737	80	Female	Diabetes	25	Heart Failure	Dialysis	No
+738	31	Female	Hypertension	15	COPD	Surgery	No
+739	19	Female	Hypertension	6	Pneumonia	Medication	No
+740	54	Male	Cardiovascular Disease	6	Pneumonia	Physical Therapy	No
+741	78	Male	None	7	Kidney Disease	Chemotherapy	Yes
+742	79	Male	Cardiovascular Disease	26	COPD	Surgery	Yes
+743	74	Female	Asthma	7	COPD	Chemotherapy	No
+744	61	Female	Hypertension	5	Pneumonia	Dialysis	Yes
+745	41	Female	Cardiovascular Disease	2	COPD	Medication	Yes
+746	24	Female	Hypertension	14	Kidney Disease	Dialysis	Yes
+747	50	Male	Hypertension	3	Kidney Disease	Physical Therapy	No
+748	79	Female	Hypertension	22	Kidney Disease	Medication	Yes
+749	32	Male	Diabetes	14	COPD	Dialysis	Yes
+750	26	Female	Cardiovascular Disease	7	COPD	Chemotherapy	No
+751	69	Female	None	27	Kidney Disease	Medication	Yes
+752	80	Female	Cardiovascular Disease	21	Cancer	Medication	No
+753	27	Female	None	5	Heart Failure	Physical Therapy	Yes
+754	24	Male	Cardiovascular Disease	27	Pneumonia	Physical Therapy	No
+755	37	Female	Cardiovascular Disease	20	Cancer	Chemotherapy	Yes
+756	37	Male	Hypertension	9	Heart Failure	Chemotherapy	No
+757	90	Female	None	11	COPD	Medication	Yes
+758	56	Male	None	30	Pneumonia	Surgery	Yes
+759	28	Female	None	24	Cancer	Dialysis	Yes
+760	49	Male	Cardiovascular Disease	30	Pneumonia	Medication	Yes
+761	33	Female	None	26	COPD	Chemotherapy	No
+762	89	Female	Cardiovascular Disease	3	Heart Failure	Medication	Yes
+763	71	Male	Diabetes	3	Heart Failure	Physical Therapy	Yes
+764	46	Male	Hypertension	13	Heart Failure	Dialysis	No
+765	84	Male	Asthma	18	Cancer	Medication	Yes
+766	66	Male	Diabetes	13	Heart Failure	Physical Therapy	Yes
+767	75	Female	None	18	Cancer	Dialysis	Yes
+768	74	Female	Hypertension	11	Cancer	Dialysis	Yes
+769	56	Female	Hypertension	28	Kidney Disease	Surgery	Yes
+770	72	Male	Hypertension	9	Cancer	Physical Therapy	No
+771	57	Male	Hypertension	17	Pneumonia	Dialysis	No
+772	90	Female	None	15	Heart Failure	Surgery	No
+773	25	Female	Hypertension	30	Cancer	Surgery	Yes
+774	30	Male	Asthma	28	COPD	Medication	Yes
+775	44	Male	Asthma	1	Cancer	Chemotherapy	Yes
+776	45	Female	Hypertension	26	Cancer	Chemotherapy	No
+777	51	Female	Cardiovascular Disease	23	Kidney Disease	Dialysis	No
+778	28	Female	None	20	Pneumonia	Dialysis	No
+779	38	Female	Asthma	19	COPD	Dialysis	Yes
+780	48	Female	Asthma	17	Kidney Disease	Medication	Yes
+781	40	Male	Asthma	26	Pneumonia	Surgery	Yes
+782	88	Male	Diabetes	14	Cancer	Chemotherapy	Yes
+783	27	Female	Diabetes	4	COPD	Physical Therapy	No
+784	38	Female	Asthma	14	Pneumonia	Chemotherapy	Yes
+785	18	Male	Cardiovascular Disease	5	Kidney Disease	Surgery	No
+786	70	Male	None	5	Cancer	Surgery	No
+787	75	Female	None	19	Cancer	Physical Therapy	No
+788	78	Male	Asthma	19	Heart Failure	Medication	Yes
+789	55	Male	Asthma	19	Kidney Disease	Chemotherapy	Yes
+790	22	Female	None	25	COPD	Dialysis	Yes
+791	47	Female	Cardiovascular Disease	4	Cancer	Medication	Yes
+792	54	Female	Diabetes	30	Heart Failure	Dialysis	Yes
+793	54	Female	Diabetes	4	Pneumonia	Chemotherapy	No
+794	76	Male	Asthma	19	Cancer	Physical Therapy	Yes
+795	27	Male	None	25	Pneumonia	Medication	No
+796	47	Female	Diabetes	4	Cancer	Chemotherapy	Yes
+797	51	Male	Cardiovascular Disease	26	Pneumonia	Dialysis	No
+798	43	Female	Asthma	10	Kidney Disease	Chemotherapy	Yes
+799	72	Female	Hypertension	28	Pneumonia	Surgery	Yes
+800	32	Female	Asthma	18	Pneumonia	Surgery	Yes
+801	87	Female	Hypertension	29	Cancer	Chemotherapy	Yes
+802	46	Male	Asthma	12	Cancer	Dialysis	No
+803	37	Female	None	29	Pneumonia	Surgery	No
+804	52	Male	None	14	Kidney Disease	Chemotherapy	Yes
+805	36	Male	None	9	COPD	Chemotherapy	Yes
+806	27	Female	None	13	Heart Failure	Dialysis	Yes
+807	25	Female	Cardiovascular Disease	21	Pneumonia	Surgery	Yes
+808	39	Male	Cardiovascular Disease	16	Kidney Disease	Dialysis	No
+809	57	Female	Hypertension	19	Pneumonia	Dialysis	No
+810	90	Female	Cardiovascular Disease	20	Heart Failure	Dialysis	Yes
+811	54	Female	Asthma	16	COPD	Surgery	No
+812	74	Male	None	2	COPD	Surgery	No
+813	33	Male	Diabetes	6	Pneumonia	Medication	No
+814	77	Male	Diabetes	9	Heart Failure	Physical Therapy	No
+815	56	Female	Diabetes	13	Pneumonia	Chemotherapy	Yes
+816	69	Female	Asthma	5	Cancer	Physical Therapy	Yes
+817	52	Female	Diabetes	20	COPD	Dialysis	Yes
+818	82	Female	Diabetes	20	Kidney Disease	Medication	Yes
+819	87	Male	Hypertension	22	Kidney Disease	Medication	Yes
+820	81	Male	Asthma	23	Kidney Disease	Chemotherapy	Yes
+821	74	Female	Asthma	13	Heart Failure	Chemotherapy	No
+822	28	Male	Diabetes	2	Heart Failure	Physical Therapy	Yes
+823	23	Male	Asthma	13	COPD	Physical Therapy	Yes
+824	73	Male	Hypertension	29	Heart Failure	Surgery	Yes
+825	59	Male	Hypertension	29	Cancer	Physical Therapy	No
+826	50	Female	None	11	COPD	Physical Therapy	No
+827	21	Female	Hypertension	23	COPD	Dialysis	No
+828	29	Female	None	8	Cancer	Medication	Yes
+829	47	Male	Diabetes	2	Cancer	Physical Therapy	No
+830	20	Male	None	24	Cancer	Surgery	Yes
+831	52	Female	None	16	Pneumonia	Physical Therapy	Yes
+832	23	Female	Diabetes	30	Kidney Disease	Dialysis	No
+833	40	Male	None	9	Kidney Disease	Chemotherapy	Yes
+834	78	Female	Hypertension	29	COPD	Dialysis	Yes
+835	84	Female	Diabetes	12	Cancer	Surgery	Yes
+836	74	Female	Asthma	1	Heart Failure	Chemotherapy	No
+837	53	Female	None	11	Cancer	Medication	Yes
+838	41	Female	Hypertension	27	COPD	Surgery	No
+839	73	Female	Asthma	26	Kidney Disease	Surgery	Yes
+840	80	Male	Diabetes	10	Pneumonia	Physical Therapy	Yes
+841	29	Female	Diabetes	10	Cancer	Surgery	No
+842	78	Female	Diabetes	9	Kidney Disease	Medication	No
+843	62	Male	Hypertension	27	COPD	Medication	Yes
+844	70	Female	Asthma	16	COPD	Medication	No
+845	60	Female	Diabetes	28	Kidney Disease	Surgery	Yes
+846	59	Male	Hypertension	23	Kidney Disease	Dialysis	Yes
+847	31	Female	Cardiovascular Disease	22	Cancer	Surgery	No
+848	38	Female	Hypertension	4	Heart Failure	Physical Therapy	Yes
+849	60	Male	Cardiovascular Disease	28	Cancer	Medication	No
+850	70	Male	Asthma	8	Pneumonia	Physical Therapy	No
+851	81	Female	Diabetes	5	Kidney Disease	Medication	Yes
+852	54	Male	Diabetes	10	Pneumonia	Physical Therapy	No
+853	69	Female	None	24	Pneumonia	Chemotherapy	Yes
+854	88	Male	Diabetes	15	Heart Failure	Chemotherapy	No
+855	22	Male	Asthma	25	Cancer	Medication	No
+856	76	Male	Hypertension	27	COPD	Physical Therapy	Yes
+857	29	Male	Asthma	11	Pneumonia	Surgery	No
+858	58	Male	Diabetes	9	Pneumonia	Dialysis	Yes
+859	50	Male	Hypertension	24	Pneumonia	Surgery	Yes
+860	59	Female	Asthma	14	Pneumonia	Surgery	Yes
+861	32	Female	Diabetes	20	COPD	Dialysis	No
+862	69	Female	Diabetes	21	Cancer	Dialysis	Yes
+863	83	Male	Diabetes	3	Heart Failure	Physical Therapy	Yes
+864	18	Female	None	7	Pneumonia	Dialysis	No
+865	87	Male	None	15	Kidney Disease	Chemotherapy	No
+866	77	Female	None	7	COPD	Dialysis	No
+867	70	Female	Hypertension	30	Heart Failure	Surgery	Yes
+868	24	Male	Asthma	27	Kidney Disease	Medication	No
+869	42	Male	Hypertension	14	Kidney Disease	Chemotherapy	Yes
+870	84	Male	Hypertension	24	Kidney Disease	Dialysis	No
+871	64	Female	Diabetes	16	Pneumonia	Dialysis	Yes
+872	81	Female	Cardiovascular Disease	25	Cancer	Medication	Yes
+873	74	Female	Cardiovascular Disease	17	Pneumonia	Physical Therapy	Yes
+874	24	Female	Diabetes	28	Kidney Disease	Surgery	Yes
+875	44	Male	Cardiovascular Disease	12	Heart Failure	Medication	No
+876	52	Female	Hypertension	27	Pneumonia	Physical Therapy	No
+877	88	Female	Asthma	2	Heart Failure	Surgery	Yes
+878	34	Female	None	17	Pneumonia	Dialysis	No
+879	54	Female	Hypertension	26	Cancer	Physical Therapy	No
+880	74	Female	Hypertension	6	Cancer	Medication	No
+881	80	Male	Asthma	3	Pneumonia	Chemotherapy	Yes
+882	33	Male	Cardiovascular Disease	10	Pneumonia	Medication	No
+883	21	Female	Asthma	23	Cancer	Medication	Yes
+884	48	Female	Hypertension	17	Heart Failure	Chemotherapy	Yes
+885	38	Male	Diabetes	13	Cancer	Physical Therapy	No
+886	57	Female	Diabetes	5	Pneumonia	Physical Therapy	No
+887	88	Female	Hypertension	25	Heart Failure	Medication	Yes
+888	19	Male	Diabetes	28	Pneumonia	Medication	Yes
+889	88	Female	Cardiovascular Disease	17	COPD	Physical Therapy	Yes
+890	70	Female	Asthma	29	Pneumonia	Chemotherapy	No
+891	29	Female	None	19	Cancer	Surgery	Yes
+892	46	Female	Asthma	1	Kidney Disease	Chemotherapy	Yes
+893	32	Female	None	6	Cancer	Dialysis	No
+894	77	Female	Hypertension	7	Cancer	Medication	Yes
+895	33	Male	Hypertension	29	Heart Failure	Physical Therapy	No
+896	37	Female	None	27	COPD	Chemotherapy	No
+897	81	Female	Diabetes	7	Heart Failure	Dialysis	No
+898	55	Female	Hypertension	27	Pneumonia	Dialysis	Yes
+899	83	Male	Cardiovascular Disease	2	Kidney Disease	Medication	No
+900	52	Female	Cardiovascular Disease	8	Cancer	Surgery	No
+901	71	Male	Cardiovascular Disease	2	Kidney Disease	Surgery	Yes
+902	79	Female	Cardiovascular Disease	15	Kidney Disease	Dialysis	Yes
+903	78	Male	None	2	Pneumonia	Chemotherapy	Yes
+904	49	Female	Diabetes	30	Pneumonia	Dialysis	No
+905	76	Female	None	12	Kidney Disease	Medication	Yes
+906	88	Female	Hypertension	23	Cancer	Medication	Yes
+907	36	Female	Cardiovascular Disease	7	Pneumonia	Surgery	No
+908	67	Male	Cardiovascular Disease	9	Cancer	Dialysis	No
+909	42	Male	Cardiovascular Disease	12	Pneumonia	Physical Therapy	Yes
+910	83	Female	Hypertension	27	Cancer	Physical Therapy	Yes
+911	35	Female	Asthma	15	Cancer	Chemotherapy	Yes
+912	26	Male	None	17	COPD	Chemotherapy	No
+913	53	Male	Diabetes	13	Pneumonia	Surgery	No
+914	71	Male	Hypertension	21	COPD	Medication	Yes
+915	61	Male	Asthma	30	Kidney Disease	Physical Therapy	No
+916	82	Male	Asthma	4	Cancer	Physical Therapy	Yes
+917	52	Male	Diabetes	22	Cancer	Physical Therapy	No
+918	18	Male	Hypertension	1	Heart Failure	Physical Therapy	No
+919	54	Male	Asthma	8	Pneumonia	Surgery	Yes
+920	56	Male	Cardiovascular Disease	12	Kidney Disease	Dialysis	No
+921	80	Female	Diabetes	16	Kidney Disease	Physical Therapy	Yes
+922	37	Female	Cardiovascular Disease	20	Pneumonia	Medication	No
+923	75	Female	Diabetes	15	Heart Failure	Physical Therapy	No
+924	86	Male	None	6	Heart Failure	Chemotherapy	Yes
+925	79	Male	None	28	Pneumonia	Medication	Yes
+926	62	Male	Hypertension	16	Cancer	Dialysis	No
+927	60	Male	Asthma	19	Cancer	Physical Therapy	No
+928	88	Female	Cardiovascular Disease	18	Kidney Disease	Surgery	Yes
+929	87	Female	Asthma	12	Pneumonia	Surgery	No
+930	66	Female	None	12	Cancer	Physical Therapy	No
+931	76	Male	Cardiovascular Disease	6	Heart Failure	Chemotherapy	No
+932	59	Female	Hypertension	27	Pneumonia	Surgery	Yes
+933	42	Female	Asthma	29	Kidney Disease	Medication	Yes
+934	48	Female	Diabetes	9	Cancer	Chemotherapy	No
+935	67	Male	Diabetes	24	Cancer	Dialysis	Yes
+936	47	Male	Cardiovascular Disease	27	Heart Failure	Dialysis	No
+937	70	Male	Diabetes	23	Cancer	Surgery	Yes
+938	23	Male	Diabetes	3	Cancer	Chemotherapy	Yes
+939	58	Male	None	10	Heart Failure	Surgery	No
+940	78	Female	Hypertension	1	Heart Failure	Dialysis	No
+941	66	Male	Diabetes	13	Kidney Disease	Surgery	No
+942	67	Male	Diabetes	2	Pneumonia	Chemotherapy	Yes
+943	37	Female	Asthma	6	Cancer	Physical Therapy	No
+944	81	Female	Cardiovascular Disease	28	Cancer	Dialysis	No
+945	22	Male	None	19	Heart Failure	Physical Therapy	Yes
+946	34	Female	Cardiovascular Disease	25	Kidney Disease	Chemotherapy	Yes
+947	82	Male	Asthma	7	Cancer	Dialysis	Yes
+948	60	Male	Asthma	28	Kidney Disease	Surgery	Yes
+949	30	Female	Asthma	8	COPD	Surgery	No
+950	74	Male	Diabetes	21	Heart Failure	Surgery	Yes
+951	30	Female	Cardiovascular Disease	8	Cancer	Dialysis	Yes
+952	85	Female	Cardiovascular Disease	22	Kidney Disease	Dialysis	No
+953	76	Female	Cardiovascular Disease	7	Pneumonia	Surgery	Yes
+954	19	Female	Hypertension	9	Kidney Disease	Surgery	Yes
+955	36	Male	None	21	Kidney Disease	Physical Therapy	No
+956	70	Female	Diabetes	14	COPD	Dialysis	No
+957	37	Female	None	17	Cancer	Surgery	No
+958	27	Male	Diabetes	1	Cancer	Chemotherapy	No
+959	78	Male	Cardiovascular Disease	28	Heart Failure	Surgery	No
+960	51	Female	Hypertension	25	Kidney Disease	Dialysis	Yes
+961	61	Male	Hypertension	25	Pneumonia	Surgery	Yes
+962	68	Female	Cardiovascular Disease	22	COPD	Physical Therapy	No
+963	28	Female	None	1	Kidney Disease	Medication	No
+964	60	Male	Asthma	16	Pneumonia	Dialysis	No
+965	86	Male	Cardiovascular Disease	30	Heart Failure	Dialysis	No
+966	66	Female	Diabetes	5	COPD	Medication	Yes
+967	58	Female	None	21	Cancer	Surgery	No
+968	80	Male	Asthma	6	Cancer	Physical Therapy	No
+969	87	Male	Hypertension	20	Kidney Disease	Surgery	No
+970	22	Female	Diabetes	26	COPD	Medication	No
+971	26	Female	Hypertension	1	Pneumonia	Physical Therapy	Yes
+972	48	Female	Diabetes	8	Heart Failure	Chemotherapy	Yes
+973	54	Male	Asthma	9	Heart Failure	Chemotherapy	No
+974	47	Female	Diabetes	20	Cancer	Physical Therapy	Yes
+975	29	Male	Asthma	26	Cancer	Chemotherapy	Yes
+976	73	Male	Cardiovascular Disease	10	Heart Failure	Physical Therapy	No
+977	30	Male	Cardiovascular Disease	23	Cancer	Surgery	Yes
+978	30	Female	Diabetes	23	Heart Failure	Surgery	No
+979	74	Female	None	21	Kidney Disease	Medication	Yes
+980	39	Male	Hypertension	9	Pneumonia	Surgery	Yes
+981	56	Male	Diabetes	14	COPD	Surgery	Yes
+982	21	Female	Diabetes	29	Kidney Disease	Medication	No
+983	23	Female	Hypertension	13	COPD	Dialysis	Yes
+984	59	Male	Diabetes	28	Heart Failure	Dialysis	Yes
+985	25	Female	Hypertension	12	Pneumonia	Physical Therapy	No
+986	55	Female	Asthma	15	Kidney Disease	Dialysis	Yes
+987	63	Female	None	9	Cancer	Dialysis	Yes
+988	65	Female	Cardiovascular Disease	7	COPD	Dialysis	Yes
+989	73	Male	Cardiovascular Disease	15	COPD	Surgery	No
+990	36	Female	None	10	Cancer	Dialysis	No
+991	49	Female	Hypertension	22	Kidney Disease	Surgery	Yes
+992	85	Male	None	17	Cancer	Surgery	No
+993	70	Male	Hypertension	27	COPD	Medication	No
+994	90	Male	None	20	Cancer	Physical Therapy	No
+995	41	Female	Diabetes	13	COPD	Medication	No
+996	39	Female	Diabetes	19	Kidney Disease	Chemotherapy	Yes
+997	40	Male	None	4	Pneumonia	Surgery	No
+998	28	Female	Asthma	1	Kidney Disease	Dialysis	Yes
+999	66	Female	None	17	Cancer	Dialysis	Yes
+1000	48	Male	Cardiovascular Disease	22	Cancer	Chemotherapy	Yes
